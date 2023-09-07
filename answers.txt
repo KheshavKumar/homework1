@@ -1,0 +1,9 @@
+What is the difference between a merge and a rebase?
+
+Merge involves integrating the updated changes from a local repo 
+to the working directory. It ties together the history of both branches.
+It preserves the structure of one feature branch and one main branch.
+
+Rebase moves the entire feature branch to on top of the main branch, so while it also integrates
+the features, it rewrites the project history by introducing a bunch of commit messages in the main branch
+for each commit in the feature branch
