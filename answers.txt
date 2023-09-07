@@ -7,3 +7,11 @@ It preserves the structure of one feature branch and one main branch.
 Rebase moves the entire feature branch to on top of the main branch, so while it also integrates
 the features, it rewrites the project history by introducing a bunch of commit messages in the main branch
 for each commit in the feature branch
+
+What is a remote repository?
+
+The remote repository is an online repository which multiple people 
+have access to and it facilitates collaboration. It allows inidividuals 
+to make their changes and have it reflect on this remote repositiory.
+Following this other individuals will now have access to these changes 
+while also having the ability to make their own changes.
