@@ -1,0 +1,7 @@
+What is a remote repository?
+
+The remote repository is an online repository which multiple people 
+have access to and it facilitates collaboration. It allows inidividuals 
+to make their changes and have it reflect on this remote repositiory.
+Following this other individuals will now have access to these changes 
+while also having the ability to make their own changes.
